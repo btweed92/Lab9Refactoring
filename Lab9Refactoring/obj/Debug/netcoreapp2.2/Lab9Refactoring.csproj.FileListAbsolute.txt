@@ -1,0 +1,11 @@
+C:\Users\tweed\source\repos\Lab9Refactoring\Lab9Refactoring\bin\Debug\netcoreapp2.2\Lab9Refactoring.deps.json
+C:\Users\tweed\source\repos\Lab9Refactoring\Lab9Refactoring\bin\Debug\netcoreapp2.2\Lab9Refactoring.runtimeconfig.json
+C:\Users\tweed\source\repos\Lab9Refactoring\Lab9Refactoring\bin\Debug\netcoreapp2.2\Lab9Refactoring.runtimeconfig.dev.json
+C:\Users\tweed\source\repos\Lab9Refactoring\Lab9Refactoring\bin\Debug\netcoreapp2.2\Lab9Refactoring.dll
+C:\Users\tweed\source\repos\Lab9Refactoring\Lab9Refactoring\bin\Debug\netcoreapp2.2\Lab9Refactoring.pdb
+C:\Users\tweed\source\repos\Lab9Refactoring\Lab9Refactoring\obj\Debug\netcoreapp2.2\Lab9Refactoring.csprojAssemblyReference.cache
+C:\Users\tweed\source\repos\Lab9Refactoring\Lab9Refactoring\obj\Debug\netcoreapp2.2\Lab9Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\tweed\source\repos\Lab9Refactoring\Lab9Refactoring\obj\Debug\netcoreapp2.2\Lab9Refactoring.AssemblyInfoInputs.cache
+C:\Users\tweed\source\repos\Lab9Refactoring\Lab9Refactoring\obj\Debug\netcoreapp2.2\Lab9Refactoring.AssemblyInfo.cs
+C:\Users\tweed\source\repos\Lab9Refactoring\Lab9Refactoring\obj\Debug\netcoreapp2.2\Lab9Refactoring.dll
+C:\Users\tweed\source\repos\Lab9Refactoring\Lab9Refactoring\obj\Debug\netcoreapp2.2\Lab9Refactoring.pdb
