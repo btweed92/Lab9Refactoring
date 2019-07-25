@@ -59,7 +59,7 @@ namespace Lab9Refactoring
                     }
                     else if (input2 == 3)
                     {
-                        DisplayHome(input - 1, animal);
+                        DisplayAnimal(input - 1, animal);
                     }
                 }
                 catch
