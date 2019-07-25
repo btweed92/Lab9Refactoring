@@ -30,9 +30,12 @@ namespace Lab9Refactoring
                 
             while (go)
             {
+                int studentCount = 1;
                 foreach (string listStudents in student)
                 {
-                    Console.WriteLine(listStudents);
+
+                    Console.WriteLine($"{studentCount}. { listStudents}");
+                    studentCount++;
                 }
 
                 try
